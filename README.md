@@ -29,6 +29,3 @@ https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
 - TRT MUZIK
 - TRT AVAZ
 - TRT EBA
-- TRT SPOR
-- TRT SPOR YILDIZ
-- TRT WORLD
