@@ -32,3 +32,5 @@ https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
 - TRT SPOR
 - TRT SPOR YILDIZ
 - TRT WORLD
+
+<img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/docs/screenshot.png">
