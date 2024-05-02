@@ -9,6 +9,8 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/startv.png" group-title="IPTV",STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO STAR" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/eurostar.png" group-title="IPTV",EURO STAR
+https://raw.githubusercontent.com/ilyswch/turk-iptv/main/ch/eurostar.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/showtv.png" group-title="IPTV",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHOW MAX" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/showmax.png" group-title="IPTV",SHOW MAX
