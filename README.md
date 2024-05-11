@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
 - TRT TURK
 - KANAL D
 - STAR TV
+- EURO STAR
 - SHOW TV
 - SHOW MAX
 - SHOW TURK
