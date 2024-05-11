@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TRT1" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/trt1.png" group-title="IPTV",TRT1
 https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT2" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/trt2.png" group-title="IPTV",TRT2
+#EXTINF:-1 tvg-id="" tvg-name="TRT2" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/trt2.png" group-title="IPTV",TRT2 [Geo-Blocked]
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRT TURK" tvg-logo="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/trtturk.png" group-title="IPTV",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
