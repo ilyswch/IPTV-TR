@@ -1,4 +1,4 @@
-# Publicly available IPTV channels from Turkey
+# <img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/icon.png" width="45"/> Publicly available IPTV channels from Turkey
 
 This is a collection of free and publicly available IPTV channels from Turkey. 
 
