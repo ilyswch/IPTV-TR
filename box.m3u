@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png" group-title="HD+ LINE",NOW
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="HD+ LINE",TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-int-tr.png" group-title="HD+ LINE",TV8
+http://208.79.153.150/inim03/live1/tv8int/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="HD+ LINE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="HD+ LINE",A2
