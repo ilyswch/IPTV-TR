@@ -18,7 +18,7 @@ http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png" group-title="TURK HD+ LINE",TV8
 https://hw1.jemtv.com/app/tv8/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT 4K" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-4k-tr.png" group-title="TURK HD+ LINE",TRT 4K
-http://fpxqo39n.otttv.pw/iptv/7XBZV8CQEYWT3U/4001/index.m3u8
+http://aflaxtv.xyz:8080/resplice/wdLIS4d9758INyuX/1810
 #EXTINF:-1 tvg-id="ext" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/360-tr.png" group-title="TURK HD+ LINE",360
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="A2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png" group-title="TURK HD+ LINE",A2
