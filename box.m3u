@@ -6,9 +6,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png" group-title="TURK HD+ LINE",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ATV Avrupa" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/atv-tr.png" group-title="TURK HD+ LINE",ATV Avrupa
-http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png" group-title="TURK HD+ LINE",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SHOW MAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="TURK HD+ LINE",SHOW MAX
