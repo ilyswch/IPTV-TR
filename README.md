@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/icon.png" width="45"/> Publicly available IPTV channels from Turkey
+# <img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/img/icon.png" width="35"/> Publicly available IPTV channels from Turkey
 
 This is a collection of free and publicly available IPTV channels from Turkey. 
 
@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
 - KANAL 7
 - and more
 
-<img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/docs/screenshot.png">
+<img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/docs/screenshot.png" width="500"/>
