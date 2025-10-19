@@ -9,26 +9,39 @@ https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
 
 ## Channel List
 - TRT1
-- TRT2
 - TRT TURK
-- KANAL D
 - STAR TV
-- EURO STAR
+- EUROSTAR
+- NOW
+- ATV
+- ATV2
 - SHOW TV
-- SHOW MAX
-- SHOW TURK
 - TV8
-- TEVE2
+- TV85
 - KANAL 7
-- TV 4
+- 360
+- TEVE2
+- TV4
 - TV100
+- AKIT TV
+- BEYAZ TV
+- HALK TV
 - TRT HABER
-- HABERTURK
-- CNN TURK
 - TGRT HABER
+- HABERTURK
+- 24
+- DOST TV
+- DIYANET TV
+- A SPOR
+- SPORTS TV
+- TRT EBA ORTAKUL
 - TRT COCUK
-- TRT MUZIK
+- TRT COCUK DIYANET
+- TRT BELGESEL
 - TRT AVAZ
-- TRT EBA
+- TRT KURDI
+- TRT ARABI
+- TRT WORLD
+- TRT MUZIK
 
 <img src="https://raw.githubusercontent.com/ilyswch/turk-iptv/main/docs/screenshot.png">
