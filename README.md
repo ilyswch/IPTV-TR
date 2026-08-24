@@ -5,7 +5,7 @@ This is a collection of free and publicly available IPTV channels from Türkiye.
 
 ## Just put this link in any IPTV Client
 
-https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u
+[https://raw.githubusercontent.com/ilyswch/turk-iptv/main/index.m3u](https://raw.githubusercontent.com/ilyswch/IPTV-TR/refs/heads/main/box.m3u)
 
 ## Channel List
 - TRT1
